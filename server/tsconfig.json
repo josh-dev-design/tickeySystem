@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "strict": true,
+        "lib": ["ESNext"],
+        "moduleResolution": "Node",
+         "watch": true,
+         "target": "ESNext",
+         "alwaysStrict": true,
+         "noImplicitAny": false
+
+    }
+}
